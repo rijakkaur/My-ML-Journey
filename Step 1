@@ -1,0 +1,39 @@
+# Step 1: Python Basics
+
+This section covers my Python fundamentals for Machine Learning.  
+Since I already knew variables, loops, and functions, I focused more on **data manipulation and visualization libraries**.
+
+---
+
+##  Libraries Covered
+- **NumPy** - Arrays, indexing, reshaping, mathematical operations
+- **Pandas** - Series, DataFrames, reading CSVs, filtering & grouping data
+- **Matplotlib** - Basic plotting, customization, subplots
+- **Seaborn** - Statistical plots, better visuals built on Matplotlib
+
+---
+
+##  Resources I Used
+- [W3Schools – Python](https://www.w3schools.com/python/default.asp)  
+- [NumPy Documentation](https://numpy.org/doc/)  
+- [Pandas Documentation](https://pandas.pydata.org/docs/)  
+- [Matplotlib by Corey Schafer](https://youtu.be/UO98lJQ3QGI)  
+- [Seaborn Official Guide](https://seaborn.pydata.org/tutorial.html)
+
+---
+
+##  Personal Notes
+- Matplotlib was a bit **hard to grasp at first** - syntax felt verbose.  
+- Seaborn became **easier to learn after Matplotlib** (it handles styling automatically).  
+- Since I already knew NumPy & Pandas from Grade 12, I completed this step in **5 days**.
+
+---
+
+## ✅ Practice Examples
+- Plotting simple line graphs (temperature changes, daily stock prices)  
+- Reading CSV data and visualizing distributions  
+- Grouping and summarizing data with Pandas
+
+---
+
+💡 **Next Step →** [Data Preprocessing (Step 2)](../02_Data_Preprocessing/README.md)
